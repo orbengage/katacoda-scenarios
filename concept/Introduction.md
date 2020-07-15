@@ -20,3 +20,5 @@ References
 https://www.tecmint.com/access-linux-server-terminal-in-web-browser-using-wetty/
 
 https://medium.com/pacroy/setup-web-terminal-using-wetty-docker-image-dcb1ea75bfaf
+
+https://help.github.jp/enterprise/2.11/user/articles/adding-a-new-gpg-key-to-your-github-account/
