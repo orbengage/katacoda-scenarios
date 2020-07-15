@@ -14,3 +14,8 @@ Therefore the overall strategy is
 * Use browser based UI for user experience
 * Use mobile app for duolingo type learning
 * Use mobile app for duolingo type learning
+
+
+References
+https://www.tecmint.com/access-linux-server-terminal-in-web-browser-using-wetty/
+https://medium.com/pacroy/setup-web-terminal-using-wetty-docker-image-dcb1ea75bfaf
