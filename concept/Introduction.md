@@ -1,6 +1,6 @@
 A book or practice guide with a browser based environment to practice the code that is being presented in the course material. The problems solved are given below.
 
-* Some environemnts such as Kubernetes is difficult to set up and maintain.
+* Some environments such as Kubernetes is difficult to set up and maintain.
 * An environment to run Java code is not, but still some contect switching and issues are to be expected for a beginner.
 * A Kubernetes environment can pack lot of application densely and provide isolation.
 * An environment that can be thrown away and recreated removes head aches.
