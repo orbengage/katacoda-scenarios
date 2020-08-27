@@ -10,8 +10,7 @@
     },
     "lastName": {
       "type": "string",
-      "description": "The person's last name.",
-      
+      "description": "The person's last name."
     },
     "age": {
       "description": "Age in years which must be equal to or greater than zero.",
